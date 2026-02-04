@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+.venv/
+
+# Env
+.env
+
+# SQLite（正式環境會用 volume）
+db/app.sqlite3
